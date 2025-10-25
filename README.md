@@ -307,4 +307,4 @@ ls -la 04_geometry/output/
 
 ---
 
-*Last Updated: Oktober 2024*
+*Last Updated: Oktober 2025*
